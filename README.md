@@ -1,6 +1,6 @@
 - Education
 - Experience
-- - Technology
+  - Technology
   - Career
   - Demos
 - Accomplishments
